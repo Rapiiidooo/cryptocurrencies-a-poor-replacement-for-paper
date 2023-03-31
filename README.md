@@ -17,3 +17,15 @@ Material for an article about the cryptocurrencies and the blockchain.
   - https://s25.q4cdn.com/479285134/files/doc_financials/2019/ar/2019-Annual-Report-on-Form-10-K.pdf
   - https://s25.q4cdn.com/479285134/files/doc_financials/2020/ar/MA.12.31.2020-10-K-as-filed-w-exhibits.pdf
   - https://s25.q4cdn.com/479285134/files/doc_financials/2021/ar/2021-Annual-Report-NO-EMAIL-ALERTS.pdf
+
+## Support
+
+If you really liked my research, from the conclusion of the article I can not, not give you a bitcoin address :)
+
+![QR Code for btc donation address](address.png "Addresse")
+
+bc1q2yupmjw9vz0r9dqxw2wedsxwefd06avtwptztu
+
+Thank you for all of your support, most especially if you read everything.
+
+In fact, better than a donation, spread the article the most as possible and you would be really appreciated :pray:
